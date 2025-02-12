@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Abhishek-Anand/static/css/main.28938655.css",
+    "main.js": "/Abhishek-Anand/static/js/main.72aabf0a.js",
+    "static/media/abhishek.jpeg": "/Abhishek-Anand/static/media/abhishek.cb471699050e774d8edd.jpeg",
+    "static/media/about.jpeg": "/Abhishek-Anand/static/media/about.cb471699050e774d8edd.jpeg",
+    "static/media/Abhishek_Resume_.pdf": "/Abhishek-Anand/static/media/Abhishek_Resume_.d81bcf07e7478ac319d0.pdf",
+    "index.html": "/Abhishek-Anand/index.html",
+    "main.28938655.css.map": "/Abhishek-Anand/static/css/main.28938655.css.map",
+    "main.72aabf0a.js.map": "/Abhishek-Anand/static/js/main.72aabf0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28938655.css",
+    "static/js/main.72aabf0a.js"
+  ]
+}
