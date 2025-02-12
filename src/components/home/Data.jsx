@@ -59,7 +59,7 @@ const Data = () => {
         <p className="home__description">Bollywood movie buff, and music lover who loves to code.
         </p>
 
-        <a href="https://api.whatsapp.com/send?phone=9693843478&text=Hello" className="button button--flex">
+        <a href="https://api.whatsapp.com/send?phone=919693843478&text=Hello" className="button button--flex">
             Say Hello
             <svg
                   class="button__icon"
